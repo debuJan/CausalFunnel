@@ -68,7 +68,7 @@
    <!-- Bottom Copyright -->
    <div
       class="font-roboto text-center text-[#00265F] text-[10px] sm:text-xs border-t pt-2 sm:pt-3">
-      2022 copyrights. All Rights Reserved
+      2025 copyrights. All Rights Reserved
    </div>
 </footer>
 <script src="<?php echo get_template_directory_uri(); ?>/assets/js/index.js"></script>
