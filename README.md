@@ -1,10 +1,5 @@
 # CausalFunnel - WordPress Development Assignment
 
-## Introduction
-
-This project is a **fully custom WordPress theme** developed from scratch for the CausalFunnel WordPress Development Assignment. The theme is designed to match the provided Figma design and is fully responsive across desktop, tablet, and mobile devices.
-
-The project includes dynamic Blog functionality, a responsive layout, and is deployed live for review.
 
 **Live Website:** [https://causalfunnel.great-site.net/](https://causalfunnel.great-site.net/)
 
@@ -83,16 +78,5 @@ The project includes dynamic Blog functionality, a responsive layout, and is dep
 
 You may use this account to test adding posts or categories on the live site.
 
----
 
-## Important Notes
-
-- The project is built as a **fully custom WordPress theme** — no pre-built themes or page builders were used.
-- Styling is done using **Tailwind CSS** for clean and consistent responsiveness.
-- The Blog section is fully dynamic using the **WordPress Loop**.
-- Sidebar widgets (**Recent Posts** and **Categories**) are fully dynamic.
-- The site is **deployed live** on InfinityFree.
-- Responsive design is tested on various devices.
-
----
 
